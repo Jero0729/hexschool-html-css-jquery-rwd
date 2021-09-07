@@ -99,7 +99,7 @@ header .nav .menu-bars{
 	display:none;
 }
 header .nav h1 a{
-	background:url(images/logo_w@svg.svg);
+	background:url(../images/logo_w@svg.svg);
 	width:120px;
 	height:24px;
 	text-indent:101%;
@@ -155,7 +155,7 @@ header .nav ul li a:hover{
 	}
 }
 .banner{
-	background:url(/images/header_desktop.png) center  no-repeat;	
+	background:url(../images/header_desktop.png) center  no-repeat;	
 	height:420px;
 	display:flex;
 	justify-content:center;
@@ -177,7 +177,7 @@ header .nav ul li a:hover{
 
 @media (max-width: 767px){
 	.banner{
-		background:url(/images/header_mobile.png) center no-repeat;
+		background:url(../images/header_mobile.png) center no-repeat;
 		width:100%;
 		background-size: cover;
 	}
@@ -274,7 +274,7 @@ header .nav ul li a:hover{
 	display:flex;
 }
 .chef .chef-introduction .image{
-	background:url(/images/main_chef_brown.png) center;
+	background:url(../images/main_chef_brown.png) center;
 	height:460px;
 	width: 50%;
 	background-size: cover;
@@ -361,7 +361,7 @@ header .nav ul li a:hover{
 }
 .booking .information .information-item .img{
 	margin-right:2.12765%;
-	background:url(/images/Map.png);
+	background:url(../images/Map.png);
 	width:48.93617%;
 	height:386px;
 	background-size: cover;
@@ -478,7 +478,7 @@ footer .resturant .about>li{
 	font-weight:bold;
 }
 .resturant .end-logo>a{
-	background:url(/images/logo_l@svg.svg) no-repeat;
+	background:url(../images/logo_l@svg.svg) no-repeat;
 	width:245px;
 	height:49px;
 	text-indent:101%;
