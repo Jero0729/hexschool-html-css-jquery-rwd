@@ -99,7 +99,7 @@ header .nav .menu-bars{
 	display:none;
 }
 header .nav h1 a{
-	background:url(/images/logo_w@svg.svg);
+	background:url(images/logo_w@svg.svg);
 	width:120px;
 	height:24px;
 	text-indent:101%;
